@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ramengi-chawngthu/Robofriends/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Ramengi-chawngthu/Robofriends/static/js/main.f1863f24.chunk.js",
+    "main.js.map": "/Ramengi-chawngthu/Robofriends/static/js/main.f1863f24.chunk.js.map",
+    "runtime-main.js": "/Ramengi-chawngthu/Robofriends/static/js/runtime-main.67340b37.js",
+    "runtime-main.js.map": "/Ramengi-chawngthu/Robofriends/static/js/runtime-main.67340b37.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Ramengi-chawngthu/Robofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0a4f957b.chunk.js": "/Ramengi-chawngthu/Robofriends/static/js/2.0a4f957b.chunk.js",
+    "static/js/2.0a4f957b.chunk.js.map": "/Ramengi-chawngthu/Robofriends/static/js/2.0a4f957b.chunk.js.map",
+    "index.html": "/Ramengi-chawngthu/Robofriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Ramengi-chawngthu/Robofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Ramengi-chawngthu/Robofriends/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0a4f957b.chunk.js.LICENSE.txt": "/Ramengi-chawngthu/Robofriends/static/js/2.0a4f957b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67340b37.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0a4f957b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f1863f24.chunk.js"
+  ]
+}
